@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Jaskamal Kainth
+bio: 'Geek , Programmer , Mathematician , Computer Science Student'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/JK.jpg'
 
-url: http://koppl.in/indigo
+url: http://jaskamalkainth.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,17 +25,17 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: my
+twitter: j1k7_7
 # google: mygoogle
-# instagram: myinstagram
+instagram: jaskamalkainth
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+linkedin: j1k77
+#youtube: myyoutube
+#spotify: myspotify
+github: jaskamalkainth
+#medium: medium
+email: kainthjaskamal@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -47,11 +47,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
